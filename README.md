@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nick Hamilton's life story 
 
 You can use the [editor on GitHub](https://github.com/Hamster-17/Profile-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
