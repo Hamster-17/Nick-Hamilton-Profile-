@@ -1,13 +1,10 @@
 ![](me.JPG) 
 ## Welcome to Nick Hamilton's life story 
 
-You can use the [editor on GitHub](https://github.com/Hamster-17/Profile-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am 23 years old and a graduate for Dimension Data in the GAP program. I have a deep love for sports and people, as well as having a curiosity with regrads to technology and its capabilities especially in a country like South Africa. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education 
+ I went to high school in Pretoria at St Albans College and then moved to Cape Town where I achieved my honours in entrepreneurship and management in 2019. 
 
 ```markdown
 Syntax highlighted code block
