@@ -1,7 +1,7 @@
 ![](me.JPG) 
 ## Welcome to Nick Hamilton's life story 
 
-I am 23 years old and a graduate for Dimension Data in the GAP program. I have a deep love for sports and people, as well as having a curiosity with regrads to technology and its capabilities especially in a country like South Africa. I enjoy socialzing with friends and have a taste for ale. Family is very important to me and I am lucky to have many family members in and around my home. 
+I am 23 years old and a graduate for Dimension Data in the GAP program. I have a deep love for sports and people, as well as having a curiosity with regrads to technology and its capabilities especially in a country like South Africa. I enjoy socialising with friends and have a taste for ale. Family is very important to me and I am lucky to have many family members near me.  
 
 ### Education 
  I went to high school in Pretoria at St Albans College and then moved to Cape Town where I achieved my honours in entrepreneurship and management in 2019. 
